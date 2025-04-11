@@ -1,4 +1,7 @@
+![Swift Bitcoin](https://github.com/user-attachments/assets/e7f29e72-6aa9-4f2c-9ba0-1e2a973ee09b)
+
 ## Meet Swift Bitcoin
+
 Swift Bitcoin is a complete SDK for integrating any Bitcoin feature into multi-platform Swift projects. It also functions as a fully-featured standalone network client allowing to sync blocks with other nodes and relay transactions. There's also a command line utility for controlling daemon instances as well as performing off-chain operations.
 
 * Visit [SwiftBitcoin.org](https://swiftbitcoin.org) to get the latest news, [read the docs](https://swiftbitcoin.org/docs/documentation/bitcoin/), and [run the tools](https://swiftbitcoin.org/docs/documentation/bitcoin/running)
